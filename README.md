@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0326-power-of-three) |
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
