@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0283-move-zeroes) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MohammedHashimNilger/LeetCode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
